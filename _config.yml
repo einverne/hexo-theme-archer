@@ -1,27 +1,21 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
-# author name
-author: fi3ework
+avatar: /avatar/einverne.jpg
+# autVerneame
+author: Ein Verne
 # signature
-signature: witness me
+signature: 认识我自己
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: i@einverne.info
+  github: //github.com/einverne
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
-  qq: 
-  telegram: 
-  weibo: 
-  zhihu: 
-  douban: 
-  facebook: 
-  twitter: 
-  instagram: 
+  # wechat: /assets/example_qr.png
+  telegram: //t.me/einverne
+  douban: //www.douban.com/people/einverne/
+  twitter: //twitter.com/einverne
+  instagram: //instagram.com/einverne
   stack-overflow: 
-  segmentFault: 
-  juejin: 
   v2ex: 
   bilibili: 
   linkedin: 
@@ -30,25 +24,31 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
+  我的博客: //blog.einverne.info
 about:
   enable: true
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: EV 的投资笔记
 # keywords for site (good for SEO)
 SEO_keywords:
-  - hexo
-  - 'hexo-theme'
-  - 'hexo-blog'
+  - 投资
+  - 投资笔记
+  - 投资工具
+  - 投资书籍
+  - 投资心得
+  - 开户
+  - 券商对比
+  - 'invest'
+  - '证券'
+  - '证券投资'
+  - '期权'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: EV 的投资笔记
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: Real freedom does not mean that you can do anything you want, rather you can reject what you do not want to do.
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -73,7 +73,7 @@ comment:
   # Livere  site: https://livere.com/
   livere_uid: 
   # Disqus  site: https://disqus.com/
-  disqus_shortname: 
+  disqus_shortname: ev-invest
   # Gitment  site: https://github.com/imsun/gitment
   gitment_owner: 
   gitment_repo: 
@@ -103,11 +103,11 @@ busuanzi: true
 # fill in pv or uv
 busuanzi_pv_or_uv: 'pv'
 # custom analytic slogan, '${count}' is the analytic number, DO NOT modify it.
-busuanzi_slug: 'PV: ${count} :)'
+busuanzi_slug: 'PageView: ${count} :)'
 # Baidu analytics
 baidu_analytics: 
 # Google analytics
-google_analytics: 
+google_analytics: G-62B3L2JP70
 # CNZZ analytics
 CNZZ_analytics: 
 
