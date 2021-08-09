@@ -15,13 +15,13 @@ social:
   douban: //www.douban.com/people/einverne/
   twitter: //twitter.com/einverne
   instagram: //instagram.com/einverne
-  stack-overflow: 
-  v2ex: 
-  bilibili: 
-  linkedin: 
-  steam: 
-  others: 
-  rss: 
+  stack-overflow:
+  v2ex:
+  bilibili:
+  linkedin:
+  steam:
+  others:
+  rss:
 # friends
 friends:
   我的博客: //blog.einverne.info
@@ -107,7 +107,7 @@ busuanzi_slug: 'PageView: ${count} :)'
 # Baidu analytics
 baidu_analytics: 
 # Google analytics
-google_analytics: G-62B3L2JP70
+google_analytics: UA-63782478-4
 # CNZZ analytics
 CNZZ_analytics: 
 
