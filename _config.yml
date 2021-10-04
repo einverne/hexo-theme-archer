@@ -24,7 +24,9 @@ social:
   rss:
 # friends
 friends:
-  我的博客: //blog.einverne.info
+  技术记录: //blog.einverne.info
+  我的博客: //www.einverne.info
+  券商推荐: //broker.einverne.info
 about:
   enable: true
   image: '/intro/about-bg.jpg'
